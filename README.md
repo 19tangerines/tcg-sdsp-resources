@@ -10,9 +10,6 @@ This repository contains MyEmma email marketing resources for the San Diego Scie
 2. *work in progress:* SDSP One-Pager Template: an email to give a simple explanation for what SDSP does.
    1. Included: a series of drag-and-drop html blocks and an assembly guide.
    2. Download the `sdsp_onepager_template` folder and follow the guide in `INSTRUCTIONS.md`.
-3. *work in progress:* Optional Logos/Assets: formatted and cleaned up logos
-   1. Found in `optional_branding_assets`
-   2. Upload to Emma as image assets. 
 
 ## Visual Sample: 
 
