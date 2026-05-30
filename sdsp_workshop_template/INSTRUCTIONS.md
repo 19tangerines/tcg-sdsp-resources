@@ -82,9 +82,43 @@ These are the colors and fonts baked into the template:
 | `07_event_details_heading.html` | *(no edits — says "Event Details")* |
 | `08_event_details_left.html` | `{{DATE}}`, `{{TIME}}`, `{{LOCATION}}`, `{{AUDIENCE}}`, `{{COST}}` |
 | `09_register_button.html` | `{{REGISTRATION_URL}}` (appears 2x — use Find & Replace) |
-| `10_about_sdsp.html` | `{{SDSP_WEBSITE_URL}}` *(set once, then leave this file alone)* |
+| `10_about_sdsp.html` | `{{SDSP_WEBSITE_URL}}` *(set once, then leave this file alone)* — describes SDSP's partnership with UC San Diego and the SD County Office of Education, the California Science Project network, research partners (Scripps, Birch Aquarium), and frames workshops as professional learning designed by educators, for educators. |
 | `11_share_button.html` | `{{SHARE_URL}}` (appears 2x — use Find & Replace) |
 | `12_footer.html` | `{{YEAR}}` — current year for copyright line; unsubscribe + mailing address use Emma's standard merge tags |
+
+---
+
+## Workshop topics — content reference
+
+SDSP workshops span a range of timely, relevant topics. Use this as a reference
+when writing your `{{INTRO_HOOK}}`, `{{WORKSHOP_DESCRIPTION}}`, and outcomes.
+Each HTML file also has topic-specific examples in its comments.
+
+| Topic | What it covers | Example outcomes |
+|---|---|---|
+| **Science Media Literacy** | Help students evaluate scientific claims, spot misinformation, and think critically about the science they encounter in the real world. | evaluate science-related claims; identify misinformation tactics; think critically about sources |
+| **Climate Education** | Connect with UC San Diego researchers and explore place-based, phenomenon-driven approaches to teaching climate science, from local coastlines to global systems. | construct models using the Understanding Global Change framework; create evidence-based explanations for local climate phenomena; connect local observations to global systems |
+| **AI & Science Communication** | Examine how artificial intelligence is reshaping the way science is produced and communicated — and what that means for the classroom. | assess how AI tools generate and present scientific information; evaluate AI-produced science content for accuracy and bias; integrate AI literacy into existing science curricula |
+| **NGSS & Assessment Design** | Expand skills for designing equitable, student-centered assessments aligned to the Next Generation Science Standards. | design equitable, student-centered assessments; align assessment tasks to NGSS performance expectations; use assessment data to inform inquiry-based instruction |
+
+These topics aren't exhaustive — SDSP workshops also cover emerging areas as
+they come up. When writing for a new topic, follow the same pattern: ground it
+in the Next Generation Science Standards, frame it around the real challenges
+teachers face, and aim to leave educators feeling confident, connected, and
+equipped.
+
+---
+
+## Why SDSP workshops matter
+
+Science education is most powerful when teachers feel confident, connected, and
+equipped. SDSP workshops are designed to build lasting teaching skills by
+helping educators bring relevant, inquiry-based science into their classrooms
+in ways that resonate with their students. SDSP provides long-term, targeted
+professional development for K-12 teachers, grounded in the Next Generation
+Science Standards and cognizant of the real challenges teachers face. Keep
+this framing in mind when writing workshop copy — it's the "why" behind every
+SDSP event.
 
 ---
 

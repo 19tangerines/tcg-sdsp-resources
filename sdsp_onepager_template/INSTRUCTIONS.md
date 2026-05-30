@@ -107,14 +107,34 @@ Same palette and fonts as the workshop template (deliberate brand cohesion):
 
 | File | Placeholders |
 |---|---|
-| `01_header_title.html` | `{{HEADLINE}}` — recommended: **"Welcome to the San Diego Science Project"** (simple, evergreen, doesn't fight the paragraph's "Hi there!" hook). See README appendix for alternatives. |
-| `02_welcome_paragraph.html` | `{{SDSP_WEBSITE_URL}}` *(set once)* — stable boilerplate otherwise |
+| `01_header_title.html` | `{{HEADLINE}}` — recommended: **"Welcome to the San Diego Science Project"** (simple, evergreen, doesn't fight the paragraph's "Hi there!" hook). See title options section below for alternatives. |
+| `02_welcome_paragraph.html` | `{{SDSP_WEBSITE_URL}}` *(set once)* — stable boilerplate otherwise. Describes SDSP's partnership with UC San Diego and the SD County Office of Education, the California Science Project network, and research partners like Scripps and Birch Aquarium. |
 | `03_upcoming_events_heading.html` | *(no edits — says "Upcoming Events")* |
 | `04_event_card_left.html` | `{{EVENT_TITLE}}`, `{{EVENT_BLURB}}`, `{{EVENT_DATE}}`, `{{MORE_DETAILS_URL}}` (URL appears 2x — use Find & Replace) |
 | `05_event_card_right.html` | Same placeholders as 04 |
-| `06_closing_paragraph.html` | `{{SDSP_WEBSITE_URL}}` *(set once)* — stable boilerplate otherwise |
+| `06_closing_paragraph.html` | `{{SDSP_EVENTS_URL}}` *(set once)* — stable boilerplate otherwise. Includes a call-to-action encouraging readers to refresh their practice, connect with the community, and explore upcoming workshops at sdscienceproject.org. |
 | `07_share_button.html` | `{{SHARE_URL}}` (appears 2x — use Find & Replace) |
 | `08_footer.html` | `{{YEAR}}` — current year for copyright; unsubscribe + mailing address use Emma's standard merge tags |
+
+---
+
+## Workshop topics — suggested event blurbs
+
+SDSP workshops span a range of timely, relevant topics. Use these as starting
+points for `{{EVENT_BLURB}}` when filling in event cards. Each is ~30 words —
+adapt as needed for a specific workshop within the topic.
+
+| Topic | Suggested blurb |
+|---|---|
+| **Science Media Literacy** | Help students evaluate scientific claims, spot misinformation, and think critically about the science they encounter in the real world. |
+| **Climate Education** | Connect with UC San Diego researchers and explore place-based, phenomenon-driven approaches to teaching climate science, from local coastlines to global systems. |
+| **AI & Science Communication** | Examine how artificial intelligence is reshaping the way science is produced and communicated — and what that means for your classroom. |
+| **NGSS & Assessment Design** | Expand your skills for designing equitable, student-centered assessments aligned to the Next Generation Science Standards. |
+
+These topics aren't exhaustive — SDSP workshops also cover emerging areas as
+they come up. If your event doesn't fit one of these, write a ~30-word blurb
+in the same style: what the workshop is about, who it helps, and what teachers
+take away.
 
 ---
 
