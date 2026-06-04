@@ -26,7 +26,7 @@ This repository contains MyEmma email marketing resources for the San Diego Scie
 
 ## Attributions:
 
-Designed and built by Angel Wan · Triton Consulting Group
+Designed and built by Angel Wan · Boilerplates and Content written by Nikhil Suri · Triton Consulting Group
 
 Original visual design adapted from existing SDSP marketing materials.
 Email-platform integration (My Emma) and modular template system by TCG.
