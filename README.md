@@ -2,8 +2,6 @@
 
 This repository contains MyEmma email marketing resources for the San Diego Science Project from the team at Triton Consulting Group (TCG).
 
-repository link: https://github.com/19tangerines/tcg-sdsp-resources 
-
 ## Materials Included:
 
 1. SDSP Workshop Feature Template: an email for featuring one of SDSP's events/workshops. 
