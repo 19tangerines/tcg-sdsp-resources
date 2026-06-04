@@ -15,6 +15,8 @@ repository link: https://github.com/19tangerines/tcg-sdsp-resources
 
 ## Visual Samples:
 
+*Visual samples may not exactly reflect current email content. Design and styling is the same or very similar.*
+
 <table>
    <tr>
       <td align="center" valign="top" width="50%">
