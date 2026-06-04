@@ -8,10 +8,11 @@ repository link: https://github.com/19tangerines/tcg-sdsp-resources
 
 1. SDSP Workshop Feature Template: an email for featuring one of SDSP's events/workshops. 
    1. Included: a series of drag-and-drop html blocks and an assembly guide. 
-   2. Download the `sdsp_workshop_template` folder and follow the guide in `INSTRUCTIONS.md`.
+   2. Download the `sdsp_workshop_template` folder and follow the guide in `INSTRUCTIONS.md` or `INSTRUCTIONS.pdf`.
 2. SDSP One-Pager Template: an email to give a simple explanation for what SDSP does.
    1. Included: a series of drag-and-drop html blocks and an assembly guide.
-   2. Download the `sdsp_onepager_template` folder and follow the guide in `INSTRUCTIONS.md`.
+   2. Download the `sdsp_onepager_template` folder and follow the guide in `INSTRUCTIONS.md` or `INSTRUCTIONS.pdf`.
+
 
 ## Visual Samples:
 
